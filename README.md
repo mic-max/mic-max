@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitor-counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mic-max)
+
 <!--
 **mic-max/mic-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
